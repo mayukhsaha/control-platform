@@ -1,0 +1,8 @@
+{
+"name" : "mobile-events",
+"events" : [
+{"name": "password-changed",
+"customerId" : "100003456"
+}
+]
+}

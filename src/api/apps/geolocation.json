@@ -1,6 +1,6 @@
 {
 "name" : "ipservice",
-[
+"iplist" :[
   {
 "start-ip" : 1237777777777,
 "end-ip" : 1237844555,
